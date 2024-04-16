@@ -1,10 +1,11 @@
 ---
-title: Post 1
+title: Post 4
 layout: post.njk
 tags: [post, sand, breeze, sea, sun]
 author: Author 1
 location: aruba
 ---
+#title
 
 This is an example post. The first one.
 
